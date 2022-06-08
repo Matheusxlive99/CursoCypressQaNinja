@@ -1,0 +1,52 @@
+{
+    "signup":{
+        "name": "Matheus Felipe",
+        "cpf": "01822416612",
+        "email": "felipematheus078@gmail.com",
+        "whatsapp": "31973532559",
+        "address": {
+            "postalcode": "31920725",
+            "street": "Rua dos Partidos",
+            "number": "260",
+            "details": "Fundos",
+            "district": "Nossa Senhora da Saúde",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Martins Felipe",
+        "cpf": "018224661aa",
+        "email": "felipematheus078@gmail.com.br",
+        "whatsapp": "31973535785",
+        "address": {
+            "postalcode": "31920725",
+            "street": "Rua dos Partidos",
+            "number": "260",
+            "details": "Fundos",
+            "district": "Nossa Senhora da Saúde",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+
+    "email_inv": {
+        "name": "Martins Felipe",
+        "cpf": "01822416612",
+        "email": "felipematheus078gmail.com.br",
+        "whatsapp": "31973535785",
+        "address": {
+            "postalcode": "31920725",
+            "street": "Rua dos Partidos",
+            "number": "260",
+            "details": "Fundos",
+            "district": "Nossa Senhora da Saúde",
+            "city_state": "Belo Horizonte/MG"
+        },
+        "deliver_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+
+    }
+}
