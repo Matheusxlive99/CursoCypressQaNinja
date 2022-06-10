@@ -81,3 +81,4 @@ describe('Signup', () => {
     afterEach(function () {
         cy.log('Tudo aqui é executado sempre Depois de cada caso de teste')
     })*/
+    
